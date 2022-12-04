@@ -1,16 +1,44 @@
-### Hi there 👋
+<h2> <img src="https://media.giphy.com/media/MVFK3wBRqXI4Swbx5e/giphy.gif" width="50"> Hi, I am <s>Groot</s> Josie! </h2>
+<img align='right' src="https://media.giphy.com/media/dTtOyFXfwU5Io91IVW/giphy.gif" width="130"> 
+<p><em>Software developer and research engineer with a passion for VFX, games and computer graphics.</a>
+</em></p>
 
-<!--
-**jklintan/jklintan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jklintan.jklintan) [![GitHub Josefine](https://img.shields.io/github/followers/jklintan?label=follow&style=social)](https://github.com/jklintan)
 
-Here are some ideas to get you started:
+<h3>˖°. <img src="https://media.giphy.com/media/Lh1XLWCeaSLUnz8l1A/giphy.gif" width="150"> .°˖</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Josie(Developer):
+
+    def __init__(self):
+        super.__init__()
+        self.pronouns = ["she", "her"]
+        self.code_weapon_of_choice = [Python, C++, GLSL]
+        self.tools = [Maya, Blender, Unity, OpenGL]
+
+        self.about_me = {
+            "commitment": "equality in tech",
+            "OS": Linux,
+            "languages": [swe, en_US, fr]
+        }
+```
+
+```
+test_josie_is_problem_solver ... ok
+test_josie_pass_vibe_check ... ok
+test_josie_is_geeky ... ok
+----------------------------------------------------------------------
+Ran 18973253749832 other awesome tests in 0.1337s
+
+OK
+```
+
+
+<h2><img src="https://media.giphy.com/media/aXLiSpRvsJA2oysriL/giphy.gif" width="30">  Highlighted Projects </h2>
+
+<a href="https://github.com/jklintan/Visualizing-Women-in-Movies">
+  <img align="center" width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=jklintan&repo=Visualizing-Women-In-Movies&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Visualizing Women in Movies" />
+</a>
+<a href="https://github.com/jklintan/Shaders">
+  <img align="center" width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=jklintan&repo=Shaders&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Shaders" />
+</a>
