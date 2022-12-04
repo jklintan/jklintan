@@ -32,13 +32,3 @@ Ran 18973253749832 other awesome tests in 0.1337s
 
 OK
 ```
-
-
-<h2><img src="https://media.giphy.com/media/aXLiSpRvsJA2oysriL/giphy.gif" width="30">  Highlighted Projects </h2>
-
-<a href="https://github.com/jklintan/Visualizing-Women-in-Movies">
-  <img align="center" width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=jklintan&repo=Visualizing-Women-In-Movies&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Visualizing Women in Movies" />
-</a>
-<a href="https://github.com/jklintan/Shaders">
-  <img align="center" width=49% src="https://github-readme-stats.vercel.app/api/pin/?username=jklintan&repo=Shaders&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Shaders" />
-</a>
