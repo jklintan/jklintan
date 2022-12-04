@@ -5,6 +5,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jklintan.jklintan) [![GitHub Josefine](https://img.shields.io/github/followers/jklintan?label=follow&style=social)](https://github.com/jklintan)
 
+<br/>
 <h3>˖°. <img src="https://media.giphy.com/media/Lh1XLWCeaSLUnz8l1A/giphy.gif" width="150"> .°˖</h3>
 
 ```python
